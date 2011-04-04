@@ -1,0 +1,6 @@
+= CIM RAMP
+
+== Installation
+
+bundle install
+rails s
